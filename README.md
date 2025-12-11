@@ -2,7 +2,7 @@
 
 A high-performance, single-binary Terminal User Interface (TUI) application for monitoring your macOS battery status. Built with Go and Bubbletea.
 
-![Battery Monitor Screenshot](https://via.placeholder.com/800x400?text=Battery+Monitor+Go+Screenshot)
+![Chargetop Screenshot](assets/screenshot.png)
 
 ## Features
 
