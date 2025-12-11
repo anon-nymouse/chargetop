@@ -31,7 +31,7 @@ A high-performance, single-binary Terminal User Interface (TUI) application for 
     ./chargetop
     ```
 
-### Method 2: Homebrew (Coming Soon)
+### Method 2: Homebrew
 
 ```bash
 brew tap aezizhu/chargetop

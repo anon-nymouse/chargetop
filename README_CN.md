@@ -31,7 +31,7 @@
     ./chargetop
     ```
 
-### 方法 2: Homebrew (即将推出)
+### 方法 2: Homebrew
 
 ```bash
 brew tap aezizhu/chargetop
