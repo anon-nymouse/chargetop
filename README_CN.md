@@ -40,7 +40,8 @@ brew install chargetop
 
 ## 使用说明
 
-- **启动**: `./chargetop`
+- **启动 (Homebrew)**: `chargetop`
+- **启动 (源码编译)**: `./chargetop`
 - **退出**: 按 `q` 键 或 `Ctrl+C`
 - **刷新**: 按 `r` 键
 

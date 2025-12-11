@@ -40,7 +40,8 @@ brew install chargetop
 
 ## Usage
 
-- **Run**: `./chargetop`
+- **Run (Homebrew)**: `chargetop`
+- **Run (Source)**: `./chargetop`
 - **Quit**: Press `q` or `Ctrl+C`
 - **Refresh**: Press `r`
 
