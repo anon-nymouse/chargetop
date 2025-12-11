@@ -1,5 +1,7 @@
 # Chargetop (macOS 终端电池监控器) 🔋
 
+**中文文档** | [English](README.md)
+
 这是一个高性能、单二进制文件的终端用户界面 (TUI) 应用程序，用于监控您的 macOS 电池状态。基于 Go 语言和 Bubbletea 框架构建。
 
 ![Chargetop Screenshot](assets/screenshot.png)

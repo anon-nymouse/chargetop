@@ -1,5 +1,7 @@
 # Chargetop 🔋
 
+[中文文档](README_CN.md) | **English**
+
 A high-performance, single-binary Terminal User Interface (TUI) application for monitoring your macOS battery status. Built with Go and Bubbletea.
 
 ![Chargetop Screenshot](assets/screenshot.png)
